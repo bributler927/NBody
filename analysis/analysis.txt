@@ -1,0 +1,35 @@
+This is analysis.txt
+Bri Butler
+bb274
+
+5
+2.50e+11
+ 1.4631e+09  1.4943e+11 -2.9831e+04  4.0749e+02  5.9740e+24    earth.gif
+-1.1174e+11 -1.9803e+11  2.0989e+04 -1.1953e+04  6.4190e+23     mars.gif
+ 2.4125e+10  5.2103e+10 -4.3685e+04  2.0627e+04  3.3020e+23  mercury.gif
+ 5.6664e+05  7.0808e+06  1.0861e-01  1.0639e-01  1.9890e+30      sun.gif
+ 1.0555e+11  2.3363e+10 -7.5708e+03  3.4204e+04  4.8690e+24    venus.gif
+
+5
+2.50e+11
+ 1.3774e+11  5.8036e+10 -1.1560e+04  2.7494e+04  5.9740e+24    earth.gif
+ 2.2275e+11  4.7841e+10 -5.0730e+03  2.3568e+04  6.4190e+23     mars.gif
+-5.9865e+09  5.7090e+10 -4.8116e+04 -4.4176e+03  3.3020e+23  mercury.gif
+ 1.0223e+05  2.3000e+04  9.6223e-02  3.2991e-02  1.9890e+30      sun.gif
+ 8.5997e+10  6.5196e+10 -2.1191e+04  2.7971e+04  4.8690e+24    venus.gif
+
+5
+2.50e+11
+ 1.4367e+11  2.9800e+10 -5.9280e+03  2.9800e+04  5.9740e+24    earth.gif
+ 2.2535e+11  2.4100e+10 -2.5544e+03  2.4100e+04  6.4190e+23     mars.gif
+ 1.8327e+10  4.7900e+10 -3.9573e+04  4.7900e+04  3.3020e+23  mercury.gif
+ 5.2939e+04  0.0000e+00  5.2939e-02  0.0000e+00  1.9890e+30      sun.gif
+ 9.6868e+10  3.5000e+10 -1.1332e+04  3.5000e+04  4.8690e+24    venus.gif
+
+Run the simulation with the original time and dt values which are
+
+double totalTime = 39447000.0;
+double dt = 25000.0;
+
+But use the input data file "data/kaleidoscope.txt".
+In fewer than 50 words describe the visualization you observe.
